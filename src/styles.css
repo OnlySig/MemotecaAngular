@@ -47,6 +47,7 @@ h2 {
   border: 2px solid #154580;
   border-radius: 10px;
   transition: .3s ease;
+  cursor: pointer;
 }
 
 .botao:hover {

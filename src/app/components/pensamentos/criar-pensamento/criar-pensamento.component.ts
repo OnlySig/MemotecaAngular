@@ -19,6 +19,6 @@ export class CriarPensamentoComponent {
   }
 
   cancelar() {
-    alert("faz o l")
+
   }
 }
